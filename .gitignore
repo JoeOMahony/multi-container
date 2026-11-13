@@ -1,2 +1,5 @@
 .DS_Store
 *.log
+
+# Don't commit the data in the DB.
+data/
